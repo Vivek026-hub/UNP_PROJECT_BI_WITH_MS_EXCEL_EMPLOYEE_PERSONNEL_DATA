@@ -17,4 +17,4 @@ DASHBOARD Seems to be a placeholder or visual summary (currently mostly empty, b
 KPIS Lists key performance indicators (KPIs), like comparisons between gender and salary, or analysis of income vs. occupation.
 
 
-MS EXCEL PROJECT FILE - usp=drivesdk&ouid=106909420707051867854&rtpof=true&sd=true
+MS EXCEL PROJECT FILE - https://1drv.ms/x/c/183b8ff55d547076/ESUgZpyks0FCvhRv14WEOzwBAoc9lkShwQusD2REBVwK0Q
